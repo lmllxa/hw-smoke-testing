@@ -1,0 +1,2 @@
+└── .circleci
+    └── config.yml          # Look for the smoke_test Job
